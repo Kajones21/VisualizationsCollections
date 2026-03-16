@@ -22,5 +22,5 @@ The Newborn Screening (NBS) dashboard presents data on blood spot and critical c
 ### Dashboard Purpose
 The dashboard was created so providers could see how they compare against all state hospitals with the intention of encouraging quality improvement efforts based on whether they met the target for each metric.
 
-## Data and Data Schema
+## Data and Schema
 
