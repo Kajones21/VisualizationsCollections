@@ -41,8 +41,24 @@ I met with the data owners and subject matter experts to determine what the purp
 * Data range only encompassed the past 4 quarters
 
 ## Dashboard Screenshots
-![Screenshots of the dashboard.](https://github.com/Kajones21/PowerBI-NBS-Dashboard-Project/blob/main/NBS_PowerBI.pdf)
 
+### Bloodspot Screening Pages
+![Newborn Screening Bloodspot Metric 1](https://github.com/Kajones21/PowerBI-NBS-Dashboard-Project/blob/main/NBS_Blood_s1.png)
+![Newborn Screening Bloodspot Metric 2](https://github.com/Kajones21/PowerBI-NBS-Dashboard-Project/blob/main/NBS_Blood_s2.png)
+![Newborn Screening Bloodspot Metric 3](https://github.com/Kajones21/PowerBI-NBS-Dashboard-Project/blob/main/NBS_Blood_s3.png)
+![Newborn Screening Bloodspot Metric 4](https://github.com/Kajones21/PowerBI-NBS-Dashboard-Project/blob/main/NBS_Blood_s4.png)
+![Newborn Screening Bloodspot Metric 5](https://github.com/Kajones21/PowerBI-NBS-Dashboard-Project/blob/main/NBS_Blood_s5.png)
+![Newborn Screening Bloodspot Metric 6](https://github.com/Kajones21/PowerBI-NBS-Dashboard-Project/blob/main/NBS_Blood_s6.png)
+
+### Critical Congenital Heart Disease
+
+![Newborn Screening CCHD Metric 1](https://github.com/Kajones21/PowerBI-NBS-Dashboard-Project/blob/main/NBS_Blood_c1.png)
+![Newborn Screening CCHD Metric 2](https://github.com/Kajones21/PowerBI-NBS-Dashboard-Project/blob/main/NBS_Blood_c2.png)
+![Newborn Screening CCHD Metric 3](https://github.com/Kajones21/PowerBI-NBS-Dashboard-Project/blob/main/NBS_Blood_c3.png)
+
+### Contact Page
+
+![Newborn Screening Contact Page](https://github.com/Kajones21/PowerBI-NBS-Dashboard-Project/blob/main/NBS_Blood_contact.png)
 
 ## Technologies Used
 
